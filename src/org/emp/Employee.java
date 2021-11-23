@@ -24,6 +24,9 @@ public class Employee {
 	private void empaddress() {
 		System.out.println("Employee address is Perumbakkam");
 	}
+	private void alternateMobNo() {
+		System.out.println("Alternate mobile number is :9840762196");
+	}
     public static void main(String[] args) {
 		Employee e = new Employee();
 		e.empid();
